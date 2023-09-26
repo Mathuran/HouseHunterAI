@@ -1,9 +1,9 @@
 ## Setup
 
 ```
-git pull xxx
-pip install virtualenv
+git clone https://github.com/Mathuran/HouseHunterAI
 cd HouseHunterAI
+pip install virtualenv
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
